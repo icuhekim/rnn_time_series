@@ -1,0 +1,8 @@
+{
+    "sequence_length": 24,
+    "forecast_horizon_hours": 1,
+    "input_feature": "temperature",
+    "target": "next_hour_temperature",
+    "test_mae_celsius": 0.41842516490189946,
+    "test_rmse_celsius": 0.5913159445182999
+}
